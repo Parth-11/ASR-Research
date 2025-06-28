@@ -1,0 +1,34 @@
+{
+    "name": "Commonvoice : ASR Punjabi Evaluation Benchmark",
+    "taskType": {
+        "type": "asr"
+    },
+    "description": "This is a Punjabi ASR benchmark dataset.",
+    "languages": {
+        "sourceLanguage": "pa"
+    },
+    "collectionSource": [
+        "https://huggingface.co/datasets/mozilla-foundation/common_voice_11_0"
+    ],
+    "domain": [
+        "general"
+    ],
+    "license": "cc-by-4.0",
+    "submitter": {
+        "name": "AI4Bharat",
+        "oauthId": {
+            "oauthId": "contact@ai4bharat.com",
+            "provider": "google"
+        },
+        "team": [
+            {
+                "name": "Kaushal Bhogale",
+                "oauthId": {
+                    "oauthId": "kaushal98b@gmail.com",
+                    "provider": "google"
+                }
+            }
+        ]
+    },
+    "format": "wav"
+}
